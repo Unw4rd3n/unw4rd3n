@@ -68,7 +68,8 @@ Open for remote opportunities
 
 ## Выбранные проекты
 
-- [Snake Classic](https://github.com/Unw4rd3n/snake-classic) - браузерная игра на чистом JavaScript с классическим игровым циклом.
+- [sql-performance-lab](https://github.com/Unw4rd3n/sql-performance-lab) - лаборатория по оптимизации SQL: анализ планов выполнения, индексы и ускорение запросов.
+- [Anti-Fraud-Event-Platform](https://github.com/Unw4rd3n/Anti-Fraud-Event-Platform) - событийная backend-платформа для антифрода с обработкой потоков и сервисной архитектурой.
 
 ## Контакты
 
