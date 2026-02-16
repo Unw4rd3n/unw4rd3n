@@ -1,67 +1,69 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=130&lines=%24+whoami;Nikita+Lukyanov;Python+Backend+Developer;%24+load+--stack;FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+Linux+%7C+Redis" alt="Console banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=39FF14&background=0D111700&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=%24+whoami+%3E+Nikita+Lukyanov;%24+role+%3E+Python+Backend+Developer;%24+status+%3E+open+for+remote" alt="Cyber terminal banner" width="100%" />
 
-  <h1>Никита Лукьянов</h1>
-  <p><strong>Python Backend Developer</strong> • FastAPI • PostgreSQL • Docker • Linux</p>
+# Nikita Lukyanov
 
-  <p>
-    <a href="https://career.habr.com/unw4rd3n"><img src="https://img.shields.io/badge/Habr%20Career-unw4rd3n-1f6feb?style=for-the-badge" alt="Habr Career" /></a>
-    <a href="https://t.me/infoiseasy"><img src="https://img.shields.io/badge/Telegram-@infoiseasy-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram" /></a>
-    <a href="mailto:nickfgh@mail.ru"><img src="https://img.shields.io/badge/Email-nickfgh@mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" /></a>
-  </p>
+`[ PYTHON BACKEND ENGINEER ]`
+
+<p>
+  <a href="https://career.habr.com/unw4rd3n"><img src="https://img.shields.io/badge/Habr_Career-unw4rd3n-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14" alt="Habr Career" /></a>
+  <a href="https://t.me/infoiseasy"><img src="https://img.shields.io/badge/Telegram-@infoiseasy-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14" alt="Telegram" /></a>
+  <a href="mailto:nickfgh@mail.ru"><img src="https://img.shields.io/badge/Email-nickfgh@mail.ru-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14" alt="Email" /></a>
+</p>
 </div>
 
 ```bash
-$ profile --brief
-Backend engineer with 2+ years of commercial Python experience.
-Designing reliable APIs, optimizing SQL, and shipping production-ready services.
+$ stack --visible
+Python | FastAPI | PostgreSQL | Redis | Kafka | Docker | Linux | CI/CD | Pytest
 
-$ location
+$ geo
 Saint Petersburg, Russia
 
-$ status
-Open to remote opportunities
+$ english
+Level B
 ```
 
-## Core Stack
+## TERMINAL_PROFILE
 
-| Area | Tools |
+```text
+[+] Commercial backend experience: 2+ years
+[+] Domain: cybersecurity and high-load backend services
+[+] Focus: resilient API architecture + SQL performance
+[+] Strength: turning complex backend tasks into stable production systems
+```
+
+## CORE_STACK
+
+| Layer | Tools |
 |---|---|
-| Backend | Python, FastAPI, REST API |
-| Data | PostgreSQL, Redis, SQL optimization |
+| API | Python, FastAPI, REST |
+| Data | PostgreSQL, Redis, SQL tuning |
 | Infra | Docker, Linux, CI/CD |
-| Engineering | Pytest, Git, OOP, Data Structures & Algorithms |
+| Quality | Pytest, Git, OOP, Algorithms |
 
-## Impact
+## SELECTED_PROJECTS
 
-- Built and supported backend systems in cybersecurity domain.
-- Optimized PostgreSQL schemas and heavy queries for high-load scenarios.
-- Increased test coverage to 80%+ in production code.
-- Integrated internal services via REST API and reduced critical bug count.
-
-## Selected Projects
-
-| Project | What it shows | Tech |
+| Repository | Description | Stack |
 |---|---|---|
-| [sql-performance-lab](https://github.com/Unw4rd3n/sql-performance-lab) | Practical SQL performance lab: execution plans, indexes, query tuning workflow | PostgreSQL, SQL, Python |
-| [Anti-Fraud-Event-Platform](https://github.com/Unw4rd3n/Anti-Fraud-Event-Platform) | Event-driven anti-fraud backend platform with stream processing and service architecture | Python, FastAPI, Kafka, Redis, Docker |
+| [sql-performance-lab](https://github.com/Unw4rd3n/sql-performance-lab) | SQL performance lab: execution plans, indexing strategy, query optimization workflow | PostgreSQL, SQL, Python |
+| [Anti-Fraud-Event-Platform](https://github.com/Unw4rd3n/Anti-Fraud-Event-Platform) | Event-driven anti-fraud platform with stream processing and service architecture | Python, FastAPI, Kafka, Redis, Docker |
 
-## Experience
+## EXPERIENCE
 
 ### BI.ZONE - Backend Developer (Middle)
 
-`August 2023 - September 2025`
+`2023-08 -> 2025-09`
 
-- Developed backend platform features for cybersecurity products.
-- Designed and tuned PostgreSQL schema and queries under load.
-- Implemented and maintained service-to-service REST integrations.
-- Improved code quality through tests, diagnostics, and targeted fixes.
+- Backend development for cybersecurity platform components.
+- PostgreSQL schema design and query optimization under load.
+- Service-to-service REST integrations.
+- Test coverage growth to `80%+` and targeted critical bug fixes.
 
-## Education
+## EDUCATION
 
-- Baltic State Technical University `VOENMEH` (Information and Control Systems, AI) - `2024 - present`
+- Baltic State Technical University `VOENMEH` (Information and Control Systems, AI) - `2024 -> now`
 
-## Contacts
+## CONTACT
 
 - Telegram: [@infoiseasy](https://t.me/infoiseasy)
 - Habr Career: [career.habr.com/unw4rd3n](https://career.habr.com/unw4rd3n)
