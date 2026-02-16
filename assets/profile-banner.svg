@@ -1,0 +1,21 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B132B"/>
+      <stop offset="0.55" stop-color="#1C2541"/>
+      <stop offset="1" stop-color="#3A506B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="780" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5BC0BE"/>
+      <stop offset="1" stop-color="#A8E6CF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="1060" cy="110" r="78" fill="#5BC0BE" opacity="0.16"/>
+  <circle cx="1120" cy="170" r="110" fill="#A8E6CF" opacity="0.08"/>
+  <text x="96" y="132" fill="#F1F5F9" font-size="54" font-family="'Segoe UI', Arial, sans-serif" font-weight="700">Nikita Lukyanov</text>
+  <text x="96" y="184" fill="#CFE8FF" font-size="28" font-family="'Segoe UI', Arial, sans-serif">Python Backend Developer</text>
+  <line x1="96" y1="214" x2="780" y2="214" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <text x="96" y="254" fill="#DCE7F3" font-size="24" font-family="'Segoe UI', Arial, sans-serif">FastAPI • PostgreSQL • Docker • Linux • Redis • Kafka</text>
+  <text x="96" y="298" fill="#B9CADB" font-size="20" font-family="'Segoe UI', Arial, sans-serif">Building reliable backend systems and high-load APIs</text>
+</svg>
