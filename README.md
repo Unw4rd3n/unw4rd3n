@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=39FF14&background=0D111700&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=%24+whoami+%3E+Nikita+Lukyanov;%24+role+%3E+Python+Backend+Developer;%24+status+%3E+open+for+remote" alt="Cyber terminal banner" width="100%" />
+  <img src="./assets/cyber-scanline.svg" alt="Cyber scanline" width="100%" />
+  <img src="./assets/cyber-bars.svg" alt="Live signals" width="100%" />
 
 # Nikita Lukyanov
 
