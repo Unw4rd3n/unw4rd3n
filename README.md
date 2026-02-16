@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Nikita Lukyanov Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=120&lines=%24+whoami;Nikita+Lukyanov+-+Python+Backend+Developer;%24+stack;FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+Linux+%7C+Redis" alt="Console banner" width="100%" />
 
   # Никита Лукьянов
 
@@ -43,7 +43,7 @@ CI/CD, Git, REST API, Pytest, OOP, Data Structures & Algorithms
 ## Образование
 
 - Балтийский государственный технический университет `ВОЕНМЕХ` им. Д. Ф. Устинова
-  - Информационные и управляющие системы, ИИ (`сентябрь 2024 - настоящее время`)
+- Информационные и управляющие системы, ИИ (`сентябрь 2024 - настоящее время`)
 
 ## Дополнительные программы и курсы
 
@@ -60,13 +60,6 @@ CI/CD, Git, REST API, Pytest, OOP, Data Structures & Algorithms
 - Проекты в области AI и финансовой грамотности.
 - Практический опыт командной разработки и защиты решений перед экспертами.
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=unw4rd3n&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unw4rd3n&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
-
 ## Контакты
 
 - Telegram: [@infoiseasy](https://t.me/infoiseasy)
@@ -74,4 +67,3 @@ CI/CD, Git, REST API, Pytest, OOP, Data Structures & Algorithms
 - Email: [nickfgh@mail.ru](mailto:nickfgh@mail.ru)
 
 ---
-
