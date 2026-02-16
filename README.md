@@ -74,6 +74,11 @@ Level B
     <img src="./assets/project-antifraud-card.svg" alt="Anti-Fraud-Event-Platform card" width="49%" />
   </a>
 </p>
+<p>
+  <a href="https://github.com/Unw4rd3n/pi-gateway-auth-service-clean">
+    <img src="./assets/project-pi-gateway-card.svg" alt="pi-gateway-auth-service-clean card" width="100%" />
+  </a>
+</p>
 
 ## LIVE_ACTIVITY
 
