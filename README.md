@@ -12,6 +12,20 @@
 </p>
 </div>
 
+```text
++---------------------------------------------------------------+
+|                NK-LABS TERMINAL :: BOOT SEQUENCE             |
++---------------------------------------------------------------+
+| [ OK ] kernel................. linux-container-ready          |
+| [ OK ] network................ api-gateway-online             |
+| [ OK ] storage................ postgresql-connected           |
+| [ OK ] cache.................. redis-connected                |
+| [ OK ] stream................. kafka-channel-online           |
+| [ OK ] tests.................. pytest-suite-passed            |
+| [ OK ] user................... nikita_lukyanov               |
++---------------------------------------------------------------+
+```
+
 ```bash
 $ stack --visible
 Python | FastAPI | PostgreSQL | Redis | Kafka | Docker | Linux | CI/CD | Pytest
@@ -21,6 +35,15 @@ Saint Petersburg, Russia
 
 $ english
 Level B
+```
+
+```text
++-------------------- TERMINAL CARD --------------------+
+| name    : Nikita Lukyanov                             |
+| role    : Python Backend Engineer                     |
+| focus   : APIs, SQL performance, event-driven systems |
+| mode    : remote-ready                                |
++-------------------------------------------------------+
 ```
 
 ## TERMINAL_PROFILE
