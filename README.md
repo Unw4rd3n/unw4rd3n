@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=39FF14&background=0D111700&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=%24+whoami+%3E+Nikita+Lukyanov;%24+role+%3E+Python+Backend+Developer;%24+status+%3E+open+for+remote" alt="Cyber terminal banner" width="100%" />
+  <img src="./assets/cyber-hero.svg" alt="Cyber Hero" width="100%" />
   <img src="./assets/cyber-scanline.svg" alt="Cyber scanline" width="100%" />
   <img src="./assets/cyber-bars.svg" alt="Live signals" width="100%" />
 
@@ -13,6 +13,13 @@
   <a href="mailto:nickfgh@mail.ru"><img src="https://img.shields.io/badge/Email-nickfgh@mail.ru-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14" alt="Email" /></a>
 </p>
 </div>
+
+```text
++---------------------------------------------------------------+
+| VALUE: Building high-load Python backends with fast SQL and   |
+|        resilient event pipelines for production systems.      |
++---------------------------------------------------------------+
+```
 
 ```text
 +---------------------------------------------------------------+
@@ -39,15 +46,6 @@ $ english
 Level B
 ```
 
-```text
-+-------------------- TERMINAL CARD --------------------+
-| name    : Nikita Lukyanov                             |
-| role    : Python Backend Engineer                     |
-| focus   : APIs, SQL performance, event-driven systems |
-| mode    : remote-ready                                |
-+-------------------------------------------------------+
-```
-
 ## TERMINAL_PROFILE
 
 ```text
@@ -68,10 +66,22 @@ Level B
 
 ## SELECTED_PROJECTS
 
-| Repository | Description | Stack |
-|---|---|---|
-| [sql-performance-lab](https://github.com/Unw4rd3n/sql-performance-lab) | SQL performance lab: execution plans, indexing strategy, query optimization workflow | PostgreSQL, SQL, Python |
-| [Anti-Fraud-Event-Platform](https://github.com/Unw4rd3n/Anti-Fraud-Event-Platform) | Event-driven anti-fraud platform with stream processing and service architecture | Python, FastAPI, Kafka, Redis, Docker |
+<p>
+  <a href="https://github.com/Unw4rd3n/sql-performance-lab">
+    <img src="./assets/project-sql-card.svg" alt="sql-performance-lab card" width="49%" />
+  </a>
+  <a href="https://github.com/Unw4rd3n/Anti-Fraud-Event-Platform">
+    <img src="./assets/project-antifraud-card.svg" alt="Anti-Fraud-Event-Platform card" width="49%" />
+  </a>
+</p>
+
+## LIVE_ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Unw4rd3n&bg_color=0d1117&color=39ff14&line=22d3ee&point=39ff14&area=true&hide_border=true" alt="Activity graph" width="100%" />
+
+## CONTRIBUTION_SNAKE
+
+<img src="https://raw.githubusercontent.com/Unw4rd3n/Unw4rd3n/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 
 ## EXPERIENCE
 
