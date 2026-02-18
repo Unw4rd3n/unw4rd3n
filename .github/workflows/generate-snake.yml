@@ -34,7 +34,7 @@ jobs:
           for path in files:
               data = path.read_text(encoding="utf-8")
 
-              cell_pattern = re.compile(r'<rect class="c(?: c\\d+)?" x="(\\d+)" y="(\\d+)" rx="2" ry="2"/>')
+              cell_pattern = re.compile(r'<rect class="c(?: c\d+)?" x="(\d+)" y="(\d+)" rx="2" ry="2"/>')
               cells = [(int(x), int(y)) for x, y in cell_pattern.findall(data)]
               if not cells:
                   continue
