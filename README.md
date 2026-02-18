@@ -66,22 +66,10 @@ Level B
 
 ## SELECTED_PROJECTS
 
-<p>
-  <a href="https://github.com/Unw4rd3n/sql-performance-lab">
-    <img src="./assets/project-sql-card.svg" alt="sql-performance-lab card" width="49%" />
-  </a>
-  <a href="https://github.com/Unw4rd3n/Anti-Fraud-Event-Platform">
-    <img src="./assets/project-antifraud-card.svg" alt="Anti-Fraud-Event-Platform card" width="49%" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/Unw4rd3n/pi-gateway-auth-service-clean">
-    <img src="./assets/project-pi-gateway-card.svg" alt="pi-gateway-auth-service-clean card" width="49%" />
-  </a>
-  <a href="https://github.com/Unw4rd3n/GoFlow">
-    <img src="./assets/project-goflow-card.svg" alt="GoFlow card" width="49%" />
-  </a>
-</p>
+| | |
+|---|---|
+| <a href="https://github.com/Unw4rd3n/sql-performance-lab"><img src="./assets/project-sql-card.svg?v=2" alt="sql-performance-lab card" width="100%" /></a> | <a href="https://github.com/Unw4rd3n/Anti-Fraud-Event-Platform"><img src="./assets/project-antifraud-card.svg?v=2" alt="Anti-Fraud-Event-Platform card" width="100%" /></a> |
+| <a href="https://github.com/Unw4rd3n/pi-gateway-auth-service-clean"><img src="./assets/project-pi-gateway-card.svg?v=2" alt="pi-gateway-auth-service-clean card" width="100%" /></a> | <a href="https://github.com/Unw4rd3n/GoFlow"><img src="./assets/project-goflow-card.svg?v=2" alt="GoFlow card" width="100%" /></a> |
 
 ## LIVE_ACTIVITY
 
