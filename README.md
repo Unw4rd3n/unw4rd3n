@@ -86,7 +86,7 @@ Level B
 
 ## CONTRIBUTION_SNAKE
 
-<img src="./assets/contribution-snake-cyber.svg" alt="Contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Unw4rd3n/Unw4rd3n/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 
 ## EXPERIENCE
 
