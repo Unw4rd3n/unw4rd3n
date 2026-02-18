@@ -76,7 +76,10 @@ Level B
 </p>
 <p>
   <a href="https://github.com/Unw4rd3n/pi-gateway-auth-service-clean">
-    <img src="./assets/project-pi-gateway-card.svg" alt="pi-gateway-auth-service-clean card" width="100%" />
+    <img src="./assets/project-pi-gateway-card.svg" alt="pi-gateway-auth-service-clean card" width="49%" />
+  </a>
+  <a href="https://github.com/Unw4rd3n/GoFlow">
+    <img src="./assets/project-goflow-card.svg" alt="GoFlow card" width="49%" />
   </a>
 </p>
 
