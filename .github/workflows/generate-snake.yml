@@ -20,6 +20,45 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Pad rightmost column cells
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+
+          files = [
+              Path("dist/github-contribution-grid-snake.svg"),
+              Path("dist/github-contribution-grid-snake-dark.svg"),
+          ]
+
+          for path in files:
+              data = path.read_text(encoding="utf-8")
+
+              cell_pattern = re.compile(r'<rect class="c(?: c\\d+)?" x="(\\d+)" y="(\\d+)" rx="2" ry="2"/>')
+              cells = [(int(x), int(y)) for x, y in cell_pattern.findall(data)]
+              if not cells:
+                  continue
+
+              max_x = max(x for x, _ in cells)
+              all_y = sorted({y for _, y in cells})
+              existing_y = {y for x, y in cells if x == max_x}
+              missing_y = [y for y in all_y if y not in existing_y]
+              if not missing_y:
+                  continue
+
+              filler = "".join(
+                  f'<rect class="c" x="{max_x}" y="{y}" rx="2" ry="2"/>'
+                  for y in missing_y
+              )
+
+              insert_at = data.find('<rect class="u ')
+              if insert_at == -1:
+                  continue
+
+              data = data[:insert_at] + filler + data[insert_at:]
+              path.write_text(data, encoding="utf-8")
+          PY
+
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
